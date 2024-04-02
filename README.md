@@ -9,13 +9,15 @@ I developed a User Exercise Plan Board with integrated Performance List Manageme
 [Source Code][solution-url] . [Live Page][live-page]
 
 ### Figma Design
-https://www.figma.com/file/dVLLigYSANNzRHb70Mz2hU/Web-Assignment-v2?type=design&node-id=0%3A1
+
+<br />
 
 </div>
 
 <details>
 <summary>Table of contents</summary>
 
+- [Design](#design)
 - [Technologies](#technologies)
 - [Features](#features)
 - [Screenshots](#screenshots)
@@ -25,6 +27,11 @@ https://www.figma.com/file/dVLLigYSANNzRHb70Mz2hU/Web-Assignment-v2?type=design&
 </details>
 
 ## Overview
+
+### Design
+
+Here is base Figma Mockup I followed.
+https://www.figma.com/file/dVLLigYSANNzRHb70Mz2hU/Web-Assignment-v2?type=design&node-id=0%3A1
 
 ### Technologies
 
